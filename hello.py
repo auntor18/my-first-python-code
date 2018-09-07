@@ -1,0 +1,5 @@
+print ("hello python")
+print (" i love programming")
+print(" hello, world i am here")
+print(" i love my country")
+print(" i love my parents")
